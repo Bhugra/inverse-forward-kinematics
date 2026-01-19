@@ -9,7 +9,7 @@
 - [Resources](#resources)
 
 ##  About
-
+This is one of those projects that took a lot of my time as I was trying to self study this concept on my own, just to understand its concepts 
 
 ## Introduction
 
@@ -20,5 +20,4 @@
 ## Future Updates
 
 
-def hello_world():
-    print("Hello, World!")
+
